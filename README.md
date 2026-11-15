@@ -2,7 +2,7 @@
 
 A business intelligence dashboard for health-insurance claims, built with **Streamlit, Python and SQL**.
 
-**Live app:** [[link]](https://health-claims-dashboard.streamlit.app)
+**Live app:** [health-claims-dashboard.streamlit.app](https://health-claims-dashboard.streamlit.app)
 
 ## What it shows
 - **KPIs vs. the previous period:** claims, billed amount, rejection rate and average processing days.
